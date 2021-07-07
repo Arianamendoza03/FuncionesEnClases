@@ -1,0 +1,3 @@
+C:/Users/Ariana/CLionProjects/ejercicio en clase/cmake-build-debug/CMakeFiles/ejercicio_en_clase.dir
+C:/Users/Ariana/CLionProjects/ejercicio en clase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ariana/CLionProjects/ejercicio en clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
